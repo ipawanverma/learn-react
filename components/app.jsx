@@ -14,7 +14,7 @@ function Header() {
 function App() {
   return (
     <div>
-      <Header />                 <------------- here we are using the upper Header component, we can also use the syntax <Header></Header>
+      <Header />             <------- // here we are using the upper Header component, we can also use the syntax <Header></Header> and <Header /> this is called self closing tag.
       <main>
         <h2>Time to get started!</h2>
       </main>
