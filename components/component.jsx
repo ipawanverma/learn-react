@@ -1,7 +1,7 @@
 // 
 // (L-38)
 // We create components in .jsx file
-// React components are just javascript functions you can say
+// React components are just javascript functions you can say.
 //
 ///////////////////
 // (L-37)
