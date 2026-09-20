@@ -6,4 +6,7 @@ The index.jsx file acts as a main entry point of our react app because it is the
 
 ReactDom library is the main library in React like flutter_material_dart in flutter.
 
+In react all the custom components should be of uppercase because in react built in components are in lowercase so, the could differentiate that
+the all the uppercase componenets are the custom components.
+
 
