@@ -1,3 +1,8 @@
+
+&& operator (isTrueValue && showthis)
+this && is used for like if left side value is true only then show the right side value else not.
+
+
 Only the index.html file is served to the public, because react converts all other code which can run on the browser.
 
 This import export feature is of javascript not react.
